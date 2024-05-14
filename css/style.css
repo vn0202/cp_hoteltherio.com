@@ -227,29 +227,21 @@ a {
 /* Font*/
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot");
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal; }
 
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot");
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot");
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'themify';
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.eot?-fvbane");
-  src: url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.eot#iefix-fvbane") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.woff?-fvbane") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.ttf?-fvbane") format("truetype"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.svg?-fvbane#themify") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -2162,7 +2154,6 @@ a {
         **/
 		text-align: center;
         color: #ffffff;
-        background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
         white-space: normal;
         padding: 8px 20px;
         border: 2px solid #e4ad42;
@@ -2367,7 +2358,6 @@ a {
 /*End Home dark background ourservices*/
 /*Home dark background ourrooms*/
 .vk-sparta-dark-our-rooms {
-  background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/our-room/background3.jpg") no-repeat fixed;
   background-size: cover;
   position: relative;
   padding: 50px 0; }
@@ -2614,7 +2604,6 @@ a {
 /*End Home dark background testimonial*/
 /* Home dark background contact us*/
 .vk-sparta-dark-contact-us {
-  background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/contact-us/background41.jpg") no-repeat;
   background-size: cover; }
   .vk-sparta-dark-contact-us .vk-sparta-dark-contact-us-map iframe {
     width: 100%;
@@ -3649,7 +3638,6 @@ line-height: 0px; }
     justify-content: center;
     z-index: 23;
     border: none;
-    background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png"); }
     @media screen and (max-width: 991px) {
       .vk-sparta-transparents-1 .vk-navbar-header {
         position: relative;
@@ -4123,7 +4111,6 @@ line-height: 0px; }
       .vk-booking-transparent-1 .booking-hotel-all ul li:nth-child(5) {
         margin-right: 0; }
       .vk-booking-transparent-1 .booking-hotel-all ul li .vk-btn-check .btn {
-        background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s; }
@@ -4210,7 +4197,6 @@ line-height: 0px; }
         background: transparent;
         z-index: inherit; } }
     .vk-sparta-transparents-2 .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 200px;
       height: 100px;
       overflow: hidden;
@@ -5375,7 +5361,6 @@ line-height: 0px; }
   .vk-sparta-header-full-width .vk-main-header-full-width-menu {
     background: #fff; }
     .vk-sparta-header-full-width .vk-main-header-full-width-menu .wrapper-logo {
-      background: url("/web/20220128175305im_///hoteltherio.com/images/01_09_header-full-width/box22.png");
       background-size: cover;
       width: 200px;
       height: 101px;
@@ -5712,7 +5697,6 @@ line-height: 0px; }
   .vk-sparta-header-full-width-2 .vk-main-transparents-2-menu {
     background: #fff; }
     .vk-sparta-header-full-width-2 .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 230px;
       height: 140px;
       overflow: hidden;
@@ -6123,7 +6107,6 @@ line-height: 0px; }
         background: transparent;
         position: relative; } }
     .vk-sparta-listing-room .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 200px;
       height: 100px;
       overflow: hidden;
