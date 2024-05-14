@@ -1,21 +1,21 @@
  /*
  * # Semantic UI - 2.2.12
  * https://github.com/Semantic-Org/Semantic-UI
- * http://www.semantic-ui.com/
+ * //www.semantic-ui.com/
  *
  * Copyright 2014 Contributors
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 @import url('https://web.archive.org/web/20220106030402cs_/https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin');
 /*!
  * # Semantic UI 2.2.12 - Reset
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -536,11 +536,11 @@ template {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Site
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -757,11 +757,11 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Button
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -4707,11 +4707,11 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Container
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -4868,11 +4868,11 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Divider
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -5135,11 +5135,11 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Flag
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -5166,12 +5166,12 @@ i.flag:not(.icon) {
 i.flag:not(.icon):before {
   display: inline-block;
   content: '';
-  background: url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/images/flags.png") no-repeat -108px -1976px;
+  background: url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/images/flags.png") no-repeat -108px -1976px;
   width: 16px;
   height: 11px;
 }
 
-/* Flag Sprite Based On http://www.famfamfam.com/lab/icons/flags/ */
+/* Flag Sprite Based On //www.famfamfam.com/lab/icons/flags/ */
 
 /*******************************
          Theme Overrides
@@ -6406,11 +6406,11 @@ i.flag.zimbabwe:before {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Header
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -7227,11 +7227,11 @@ a.ui.inverted.grey.header:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Icon
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -7241,8 +7241,8 @@ a.ui.inverted.grey.header:hover {
 
 @font-face {
   font-family: 'Icons';
-  src: url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.eot");
-  src: url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.eot#iefix") format('embedded-opentype'), url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.woff2") format('woff2'), url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.woff") format('woff'), url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.ttf") format('truetype'), url("/web/20220106030402im_/http://hoteltherio.com/css/themes/default/assets/fonts/icons.svg#icons") format('svg');
+  src: url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.eot");
+  src: url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.eot#iefix") format('embedded-opentype'), url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.woff2") format('woff2'), url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.woff") format('woff'), url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.ttf") format('truetype'), url("/web/20220106030402im_///hoteltherio.com/css/themes/default/assets/fonts/icons.svg#icons") format('svg');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -7789,8 +7789,8 @@ i.icons .inverted.corner.icon {
 }
 
 /*
- * Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
- * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ * Font Awesome 4.7.0 by @davegandy - //fontawesome.io - @fontawesome
+ * License - //fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 
 /*******************************
@@ -11505,11 +11505,11 @@ i.icon.times.rectangle.outline:before {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Image
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -11822,11 +11822,11 @@ img.ui.bordered.image {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Input
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -12386,11 +12386,11 @@ img.ui.bordered.image {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Label
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -13811,11 +13811,11 @@ a.ui.basic.label:hover {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - List
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -14888,11 +14888,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Loader
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -15266,11 +15266,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Rail
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -15428,11 +15428,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Reveal
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -15733,11 +15733,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Segment
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -16614,11 +16614,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Step
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -17301,11 +17301,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Breadcrumb
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -17432,11 +17432,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Form
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -18598,11 +18598,11 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Grid
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -20870,12 +20870,12 @@ ol.ui.horizontal.list li:before,
 *******************************/
 /*
  * # Semantic - Menu
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Copyright 2015 Contributor
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -23124,11 +23124,11 @@ Floated Menu / Item
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Message
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -23671,11 +23671,11 @@ Floated Menu / Item
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Table
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -24935,12 +24935,12 @@ Floated Menu / Item
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Ad
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Copyright 2013 Contributors
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -25224,11 +25224,11 @@ Floated Menu / Item
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Item
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -26298,11 +26298,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Comment
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -26583,11 +26583,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Feed
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -26897,11 +26897,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Item
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -27417,11 +27417,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Statistic
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -28053,11 +28053,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Accordion
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -28315,11 +28315,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Checkbox
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -28983,11 +28983,11 @@ a.ui.card:hover,
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Dimmer
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -29209,11 +29209,11 @@ body.dimmable > .dimmer {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Dropdown
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -30831,11 +30831,11 @@ select.ui.dropdown {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Video
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -30996,11 +30996,11 @@ select.ui.dropdown {
 }
 /*!
  * # Semantic UI 2.2.12 - Modal
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -31646,11 +31646,11 @@ select.ui.dropdown {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Nag
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -31791,11 +31791,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Popup
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -32602,11 +32602,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Progress Bar
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -33183,11 +33183,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Rating
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -33460,11 +33460,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Search
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -33894,11 +33894,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Shape
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -34053,11 +34053,11 @@ a.ui.nag {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Sidebar
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -34736,11 +34736,11 @@ body.pushable > .pusher {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Sticky
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -34810,11 +34810,11 @@ body.pushable > .pusher {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Tab
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 
@@ -34897,11 +34897,11 @@ body.pushable > .pusher {
 *******************************/
 /*!
  * # Semantic UI 2.2.12 - Transition
- * http://github.com/semantic-org/semantic-ui/
+ * //github.com/semantic-org/semantic-ui/
  *
  *
  * Released under the MIT license
- * http://opensource.org/licenses/MIT
+ * //opensource.org/licenses/MIT
  *
  */
 

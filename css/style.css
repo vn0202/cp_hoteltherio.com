@@ -227,29 +227,29 @@ a {
 /* Font*/
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot");
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.woff") format("woff"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.ttf") format("truetype");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal; }
 
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot");
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.woff") format("woff"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.ttf") format("truetype");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Cinzel Decorative';
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot");
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.woff") format("woff"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.ttf") format("truetype");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.eot#iefix") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.woff") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/cinzeldecorative/CinzelDecorative-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'themify';
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/themmify/themify.eot?-fvbane");
-  src: url("/web/20220128175305im_/http://hoteltherio.com/fonts/themmify/themify.eot#iefix-fvbane") format("embedded-opentype"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/themmify/themify.woff?-fvbane") format("woff"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/themmify/themify.ttf?-fvbane") format("truetype"), url("/web/20220128175305im_/http://hoteltherio.com/fonts/themmify/themify.svg?-fvbane#themify") format("svg");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.eot?-fvbane");
+  src: url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.eot#iefix-fvbane") format("embedded-opentype"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.woff?-fvbane") format("woff"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.ttf?-fvbane") format("truetype"), url("/web/20220128175305im_///hoteltherio.com/fonts/themmify/themify.svg?-fvbane#themify") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1987,7 +1987,7 @@ a {
 /*End Home default element Image Gallery*/
 /*Home default element Booking hotel*/
 .vk-booking-hotel {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_01_default/background.jpg"); }
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_01_default/background.jpg"); }
 
 .booking-hotel-all {
   padding: 14px 0; }
@@ -2162,7 +2162,7 @@ a {
         **/
 		text-align: center;
         color: #ffffff;
-        background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png");
+        background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
         white-space: normal;
         padding: 8px 20px;
         border: 2px solid #e4ad42;
@@ -2260,14 +2260,14 @@ a {
 /*Home dark background welcometo*/
 .vk-sparta-dark-about-right-bg {
   position: relative; background:#f7f7f7;
-  /*background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_02_dark_background/welcome/background1.jpg");
+  /*background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/welcome/background1.jpg");
   background-size: cover;*/
   height:495px;
   overflow: hidden; }
 
 .vk-sparta-dark-about .vk-sparta-dark-about-left {
   /**
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_02_dark_background/welcome/img1.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/welcome/img1.jpg") no-repeat !important;
   height: 485px;
   **/
   background-position: center center;
@@ -2367,7 +2367,7 @@ a {
 /*End Home dark background ourservices*/
 /*Home dark background ourrooms*/
 .vk-sparta-dark-our-rooms {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_02_dark_background/our-room/background3.jpg") no-repeat fixed;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/our-room/background3.jpg") no-repeat fixed;
   background-size: cover;
   position: relative;
   padding: 50px 0; }
@@ -2614,7 +2614,7 @@ a {
 /*End Home dark background testimonial*/
 /* Home dark background contact us*/
 .vk-sparta-dark-contact-us {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_02_dark_background/contact-us/background41.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/contact-us/background41.jpg") no-repeat;
   background-size: cover; }
   .vk-sparta-dark-contact-us .vk-sparta-dark-contact-us-map iframe {
     width: 100%;
@@ -3433,7 +3433,7 @@ line-height: 0px; }
     .vk-sparta-menu-left-dark .vk-top-header {
       display: none; } }
   .vk-sparta-menu-left-dark .vk-navbar {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_04_sidebar_menu_dark/background2.jpg"); }
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_04_sidebar_menu_dark/background2.jpg"); }
     .vk-sparta-menu-left-dark .vk-navbar::-webkit-scrollbar {
       width: 5px;
       background-color: #000; }
@@ -3468,7 +3468,7 @@ line-height: 0px; }
 /*Home sidebar menu dark header*/
 /*Home sideba menu dark welcometo*/
 .vk-sparta-menu-left-dark .vk-sparta-dark-about .vk-sparta-dark-about-right-bg {
-  background: url(/web/20220128175305im_/http://hoteltherio.com/images/01_02_dark_background/welcome/background1.jpg);
+  background: url(/web/20220128175305im_///hoteltherio.com/images/01_02_dark_background/welcome/background1.jpg);
   background-size: cover; }
 
 .vk-sparta-menu-left-dark .vk-sparta-dark-about .vk-sparta-dark-about-right {
@@ -3649,7 +3649,7 @@ line-height: 0px; }
     justify-content: center;
     z-index: 23;
     border: none;
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png"); }
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png"); }
     @media screen and (max-width: 991px) {
       .vk-sparta-transparents-1 .vk-navbar-header {
         position: relative;
@@ -3810,7 +3810,7 @@ line-height: 0px; }
     .vk-sparta-transparents-welcometo {
       padding: 0px; } }
   .vk-sparta-transparents-welcometo .vk-transparents-welcometo-img {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/img221.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/img221.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 560px;
@@ -4123,7 +4123,7 @@ line-height: 0px; }
       .vk-booking-transparent-1 .booking-hotel-all ul li:nth-child(5) {
         margin-right: 0; }
       .vk-booking-transparent-1 .booking-hotel-all ul li .vk-btn-check .btn {
-        background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png");
+        background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s; }
@@ -4210,7 +4210,7 @@ line-height: 0px; }
         background: transparent;
         z-index: inherit; } }
     .vk-sparta-transparents-2 .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png");
+      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 200px;
       height: 100px;
       overflow: hidden;
@@ -4401,7 +4401,7 @@ line-height: 0px; }
               background: transparent;
               border: 1px solid #fff; }
   .vk-sparta-transparents-2 .vk-slide .vk-item-img {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 930px;
@@ -4413,7 +4413,7 @@ line-height: 0px; }
       .vk-sparta-transparents-2 .vk-slide .vk-item-img {
         height: 260px; } }
   .vk-sparta-transparents-2 .vk-slide .vk-item-img1 {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 930px;
@@ -4425,7 +4425,7 @@ line-height: 0px; }
       .vk-sparta-transparents-2 .vk-slide .vk-item-img1 {
         height: 260px; } }
   .vk-sparta-transparents-2 .vk-slide .vk-item-img2 {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 930px;
@@ -5246,7 +5246,7 @@ line-height: 0px; }
   .vk-center-logo-2-slide .vk-slide .vk-transparent-2-left {
     padding: 0 15px; }
   .vk-center-logo-2-slide .vk-slide .vk-item-img {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 932px;
@@ -5258,7 +5258,7 @@ line-height: 0px; }
       .vk-center-logo-2-slide .vk-slide .vk-item-img {
         height: 260px; } }
   .vk-center-logo-2-slide .vk-slide .vk-item-img1 {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 932px;
@@ -5270,7 +5270,7 @@ line-height: 0px; }
       .vk-center-logo-2-slide .vk-slide .vk-item-img1 {
         height: 260px; } }
   .vk-center-logo-2-slide .vk-slide .vk-item-img2 {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     height: 932px;
@@ -5375,7 +5375,7 @@ line-height: 0px; }
   .vk-sparta-header-full-width .vk-main-header-full-width-menu {
     background: #fff; }
     .vk-sparta-header-full-width .vk-main-header-full-width-menu .wrapper-logo {
-      background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_09_header-full-width/box22.png");
+      background: url("/web/20220128175305im_///hoteltherio.com/images/01_09_header-full-width/box22.png");
       background-size: cover;
       width: 200px;
       height: 101px;
@@ -5712,7 +5712,7 @@ line-height: 0px; }
   .vk-sparta-header-full-width-2 .vk-main-transparents-2-menu {
     background: #fff; }
     .vk-sparta-header-full-width-2 .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png");
+      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 230px;
       height: 140px;
       overflow: hidden;
@@ -5983,7 +5983,7 @@ line-height: 0px; }
             border: 1px solid #fff; }
 
 .vk-sparta-header-full-width-2 .vk-slide .vk-item-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -5996,7 +5996,7 @@ line-height: 0px; }
       height: 260px; } }
 
 .vk-sparta-header-full-width-2 .vk-slide .vk-item-img1 {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -6009,7 +6009,7 @@ line-height: 0px; }
       height: 260px; } }
 
 .vk-sparta-header-full-width-2 .vk-slide .vk-item-img2 {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -6123,7 +6123,7 @@ line-height: 0px; }
         background: transparent;
         position: relative; } }
     .vk-sparta-listing-room .vk-main-transparents-2-menu .wrapper-logo {
-      background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_05_transparents_1/box2.png");
+      background: url("/web/20220128175305im_///hoteltherio.com/images/01_05_transparents_1/box2.png");
       width: 200px;
       height: 100px;
       overflow: hidden;
@@ -6443,7 +6443,7 @@ line-height: 0px; }
     display: inline-block; }
 
 .vk-sparta-listing-room .vk-slide .vk-item-img-list {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner21.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -6456,7 +6456,7 @@ line-height: 0px; }
       height: 260px; } }
 
 .vk-sparta-listing-room .vk-slide .vk-item-img-list1 {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner20.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -6469,7 +6469,7 @@ line-height: 0px; }
       height: 260px; } }
 
 .vk-sparta-listing-room .vk-slide .vk-item-img-list2 {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/01_06_transparents_2/banner23.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
   height: 932px;
@@ -6498,7 +6498,7 @@ line-height: 0px; }
     justify-content: center;
     height: 393px;
     background-size: cover;
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_01_about/background.jpg");
+    background: url("/web/20220128175305im_///hoteltherio.com/images/02_01_about/background.jpg");
     width: 100%;
     background-position: center center; }
     @media screen and (max-width: 991px) {
@@ -6644,7 +6644,7 @@ line-height: 0px; }
       height: auto; } }
   .vk-about-count-number .vk-paralax-bg {
     padding: 20px;
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_01_about/backcout.jpg");
+    background: url("/web/20220128175305im_///hoteltherio.com/images/02_01_about/backcout.jpg");
     background-size: cover;
     background-attachment: fixed;
     -webkit-transition: 0.4s;
@@ -6811,7 +6811,7 @@ line-height: 0px; }
   justify-content: center;
   height: 393px;
   background-size: contain;
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_02_testimonials/background.jpg");
+  background: url("/web/20220128175305im_///hoteltherio.com/images/02_02_testimonials/background.jpg");
   width: 100%;
   background-position: center center; }
   @media screen and (max-width: 991px) {
@@ -6906,7 +6906,7 @@ line-height: 0px; }
 /*Gallery Banner*/
 .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
   background-size: cover;
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_03_gallery_grid_full_width/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/02_03_gallery_grid_full_width/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -7519,7 +7519,7 @@ line-height: 0px; }
 /*404 page*/
 .vk-404page .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
   background-size: cover;
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_08_404page/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/02_08_404page/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -7563,7 +7563,7 @@ line-height: 0px; }
   position: absolute;
   height: 100%;
   width: 100%;
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/02_09_coming_soon/background.jpg") no-repeat;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/02_09_coming_soon/background.jpg") no-repeat;
   background-size: cover;
   padding-top: 120px;
   padding-bottom: 141px; }
@@ -7822,7 +7822,7 @@ line-height: 0px; }
 .vk-restaurant {
   overflow: hidden; }
   .vk-restaurant .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-    background: url("/web/20220128175305im_/http://hoteltherio.com/images/03_01_restaurant/background.jpg") no-repeat !important;
+    background: url("/web/20220128175305im_///hoteltherio.com/images/03_01_restaurant/background.jpg") no-repeat !important;
     background-size: cover;
     background-position: center center;
     height: 393px;
@@ -8075,7 +8075,7 @@ line-height: 0px; }
 /*End Services Restaurent*/
 /*Services spa*/
 .vk-spa .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/03_02_spa/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/03_02_spa/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -8331,7 +8331,7 @@ line-height: 0px; }
 /*End Services spa*/
 /*Services gym*/
 .vk-gym .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/03_03_gym/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/03_03_gym/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -8518,7 +8518,7 @@ line-height: 0px; }
 /*End Services spa*/
 /*Services events*/
 .vk-events .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/03_04_events/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/03_04_events/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -8861,7 +8861,7 @@ line-height: 0px; }
 /*end Services events*/
 /*Room list*/
 .vk-room-list .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: contain;
   background-position: center center;
   height: 393px;
@@ -9024,7 +9024,7 @@ line-height: 0px; }
 /*End Room list*/
 /*Room grid*/
 .vk-room-grid .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -9146,7 +9146,7 @@ line-height: 0px; }
 /*End Room grid*/
 /*Room details*/
 .vk-room-details .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -9607,7 +9607,7 @@ line-height: 0px; }
 
 /*end Room details*/
 .vk-select-room .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: contain;
   background-position: center center;
   height: 393px;
@@ -9859,7 +9859,7 @@ line-height: 0px; }
 
 /*Reservation room selection complete*/
 .vk-room-select-complete .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: contain;
   background-position: center center;
   height: 393px;
@@ -10008,7 +10008,7 @@ line-height: 0px; }
 /*end Reservation room selection complete*/
 /*Reservation make a reservation*/
 .vk-make-a-reservation .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: contain;
   background-position: center center;
   height: 393px;
@@ -10292,7 +10292,7 @@ line-height: 0px; }
 /*end Reservation make a reservation*/
 /*Reservation confirmation*/
 .vk-confirmation .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/04_01_room_list/background.jpg") no-repeat !important;
   background-size: contain;
   background-position: center center;
   height: 393px;
@@ -10450,7 +10450,7 @@ line-height: 0px; }
 
 /*end Reservation breakcrumb*/
 .vk-events-list .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -10636,7 +10636,7 @@ line-height: 0px; }
         transition: all 0.5s; }
 
 .vk-event-grid .vk-gallery-grid-full-banner .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -10668,7 +10668,7 @@ line-height: 0px; }
     opacity: 0.7; }
 
 .vk-events-details .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/06_01_events_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -10913,7 +10913,7 @@ line-height: 0px; }
 
 /*Blog list*/
 .vk-blog-list .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -10987,7 +10987,7 @@ line-height: 0px; }
 /*blog list*/
 /*blog grid*/
 .vk-blog-grid .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11061,7 +11061,7 @@ line-height: 0px; }
 /*blog grid*/
 /*post details*/
 .vk-post-details .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/07_01_blog_list/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11154,7 +11154,7 @@ line-height: 0px; }
 /*post details*/
 /*shortcode buttons*/
 .vk-shortcode-button .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11200,7 +11200,7 @@ line-height: 0px; }
 /*end shortcode buttons*/
 /*shortcode accordion*/
 .vk-shortcode-accordion .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11304,7 +11304,7 @@ line-height: 0px; }
 /*End shortcode accordion*/
 /*shortcode Notification*/
 .vk-notification-boxes .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11376,7 +11376,7 @@ line-height: 0px; }
 /*End shortcode Notification*/
 /*shortcode Incon Box*/
 .vk-icon-box .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11460,7 +11460,7 @@ line-height: 0px; }
 /*End shortcode Incon Box*/
 /*shortcode Tabs*/
 .vk-shortcode-tabs .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11707,7 +11707,7 @@ line-height: 0px; }
 /*End shortcode Tabs*/
 /*shortcode Typography*/
 .vk-typography .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11894,7 +11894,7 @@ line-height: 0px; }
 /*End shortcode Typography*/
 /*shortcode Dividers*/
 .vk-shortcpde-dividers .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11953,7 +11953,7 @@ line-height: 0px; }
 /*End shortcode Dividers*/
 /*shortcode Icon*/
 .vk-shortcode-icon .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -11976,7 +11976,7 @@ line-height: 0px; }
 /*End shortcode Icon*/
 /*shortcode Color*/
 .vk-shortcode-color .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/08_01_buttons/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -12025,7 +12025,7 @@ line-height: 0px; }
 
 /*End shortcode Color*/
 .vk-shop .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -12180,7 +12180,7 @@ line-height: 0px; }
     padding-bottom: 0px; } }
 
 .vk-product-details .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -12516,7 +12516,7 @@ line-height: 0px; }
         margin-bottom: 284px; } }
 
 .vk-shop-cart .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
@@ -12980,7 +12980,7 @@ line-height: 0px; }
       width: 100%; } }
 
 .vk-shop-checkout .vk-about-banner .vk-about-banner-destop .vk-banner-img {
-  background: url("/web/20220128175305im_/http://hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
+  background: url("/web/20220128175305im_///hoteltherio.com/images/09_01_shop/background.jpg") no-repeat !important;
   background-size: cover;
   background-position: center center;
   height: 393px;
